@@ -75,9 +75,9 @@ I believe in **planning before coding**. Every project starts with a clear speci
 
 **🔭 Currently Building:** Production-grade Data Pipelines & Analytics Platforms
 
-**🌱 Learning:** Advanced System Design & Distributed Data Systems
+**🌱 Learning:** Advanced System Design & RL systems
 
-**👯 Open to:** Collaborating on Data Engineering & AI/ML Projects
+**👯 Open to:** Collaborating on Data Engineering & AI/ML Projects and potential SaaS applications
 
 </td>
 <td width="50%">
@@ -88,7 +88,7 @@ I believe in **planning before coding**. Every project starts with a clear speci
 - 🏅 **IBM Data Science** Professional Certified
 - 📚 **3 Q1 Journal** Publications
 - 🏃 **110m Hurdles** Champion
-- 🤖 Favorite Model: **GLM-4** & **Claude 3.5**
+- 🤖 Favorite Model: **GLM-4.7** & **Claude 4.5 Opus**
 - 💡 Philosophy: *"Measure twice, code once"*
 
 </td>
@@ -127,9 +127,9 @@ I believe in **planning before coding**. Every project starts with a clear speci
 
 ### Favorite AI Models
 <p>
-  <img src="https://img.shields.io/badge/GLM--4-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="GLM-4" />
-  <img src="https://img.shields.io/badge/Claude_3.5_Sonnet-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 3.5" />
-  <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/GLM--4.7-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="GLM-4.7" />
+  <img src="https://img.shields.io/badge/Claude_4.5_Opus-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 4.5 Opus" />
+  <img src="https://img.shields.io/badge/Gemini_3-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini 2.5" />
 </p>
 
 </div>
@@ -152,9 +152,9 @@ I believe in **planning before coding**. Every project starts with a clear speci
 ---
 
 ## 📈 GitHub Analytics
-
+<!-- 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masud1901&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masud1901&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud1901&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
@@ -162,22 +162,22 @@ I believe in **planning before coding**. Every project starts with a clear speci
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masud1901&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</div>
+</div> -->
 
 <br/>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masud1901&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masud1901&theme=tokyonight&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
 
 ## 🏆 Achievements
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=masud1901&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 <br/>
 
