@@ -33,6 +33,19 @@
 
 <br/>
 
+<!-- Animated Tech Stack Icons -->
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+</div>
+
+<br/>
+
 <!-- Stats Row -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=masud1901&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
@@ -148,9 +161,30 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masud1901&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="masud1901" />
+  &nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=masud1901&show_icons=true&locale=en&theme=chartreuse-dark" alt="masud1901" width="400" />
+</p>
+
+<br/>
+
+<h3 align="center">Trophy:</h3>
+
+<p align="center">
+  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">
+</p>
+
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=masud1901&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud1901&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&layout=compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=masud1901&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Repositories">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=masud1901&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Stars,Followers,Issues,Experience">
 </div>
 
 <br/>
@@ -184,6 +218,15 @@
 
 <br/>
 
+<!-- Closing Message -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</p>
+
+<br/>
+
+<p align="center">Created with 🧡 by <a href="https://ayon.nimbusrb.com">Akmol Masud Ayon</a></p>
+
 <!-- Footer (Wave Animation) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10&height=100&section=footer"/>
-
