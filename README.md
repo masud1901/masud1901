@@ -1,189 +1,189 @@
-<!-- Professional Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=1&section=header"/>
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Akmol+Masud+Ayon!" />
-</h1>
-
-<h3 align="center">🚀 Full Stack Developer | 📊 AI/ML Researcher | 🇧🇩 Bangladesh</h3>
-
-<br/>
-
-<!-- Profile Views & Followers -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=masud1901&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/masud1901?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
-<!-- Animated Developer GIF -->
+<!-- Header with Gradient & Memoji Feel -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Developer Animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10&height=250&section=header&text=Akmol%20Masud%20Ayon&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Researcher&descSize=20&descAlignY=65&animation=twinkling"/>
+</div>
+
+<!-- Info Chips (Inspired by ASovindu) -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Web%20Dev-6C63FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Research-AI%20%26%20Computer%20Vision-FF5722?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Dhaka,%20Bangladesh-009688?style=for-the-badge&logo=google-maps&logoColor=white" />
 </div>
 
 <br/>
 
-<!-- About Me Section with Two Columns -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-### 👨‍💻 About Me
-
-- 🎓 **M.Sc. in ICT** @ Jahangirnagar University
-- 📚 Published **3 Q1 Journal Papers** in AI/ML
-- 💼 **Co-founder** @ Nimbus Research
-- 🏆 **Top 8%** in AWS ML Competition
-- 🏃 **110m Hurdles Champion** at University
+<!-- Social Badges (Inspired by aryasoni98) -->
+<div align="center"> 
+  <a href="https://linkedin.com/in/akmolmasudayon">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ayon.nimbusrb.com">
+    <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=safari&logoColor=61DAFB" />
+  </a>
+  <a href="https://x.com/ayon1901">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:akmolmasud5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=uRY4vdIAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  </a>
+</div>
 
 <br/>
 
-- 🔭 Currently building **Production SaaS Products**
-- 🌱 Learning **Advanced ML and RL systems**
-- 💬 Ask me about **React, Next.js, Python, Data**
-- ⚡ Fun fact: I love The Office!
+<!-- Stats Row -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=masud1901&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/masud1901?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
+</div>
+
+<br/>
+
+---
+
+<!-- About Me (Checklist Style from Akash-chowrasia) -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 I’m currently building **Production-grade SaaS Applications**
+- 🌱 I’m currently learning **Advanced System Design & Distributed Systems**
+- 👯 I’m looking to collaborate on **Open Source AI/ML Projects**
+- 💬 Ask me about **React, Next.js, Python, PostgreSQL, and AWS**
+- ⚡ Fun fact: **I was a 110m Hurdles Champion at University! 🏃**
 
 <br clear="both"/>
 
----
-
-### 🌐 Connect with me:
-
-<p align="center">
-  <a href="https://linkedin.com/in/akmolmasudayon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/ayon1901" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-  <a href="https://ayon.nimbusrb.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=uRY4vdIAAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
-  </a>
-  <a href="mailto:akmolmasud5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
+<!-- Tech Stack (Grid Style from aryasoni98) -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Languages & Tools
 
 <table align="center">
   <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=typescript" width="45" height="45" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
+      <br>Postgres
     </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Database</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
     </td>
-  </tr>
-  <tr>
-    <td align="center"><b>DevOps & Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode" />
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
     </td>
   </tr>
 </table>
 
----
-
-### 🚀 Featured Projects:
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|:-------:|:-----------:|:----------:|
-| [**MUSE Analytics**](https://muse-project-rho.vercel.app/) | Content Analytics SaaS processing daily data points | Next.js, TypeScript, Convex |
-| [**VoteBD**](https://votebd.nimbusrb.com/) | Anonymous election prediction platform for BD 2026 | Next.js, PostgreSQL |
-| [**The Melange**](https://melange.nimbusrb.com/) | Production data analytics with automated ETL pipelines | FastAPI, Python, AWS |
-| [**bdshare**](https://github.com/rochi88/bdshare/pull/11) | Open source contribution (55% → 100% reliability) | Python, Pandas |
-
-</div>
-
----
-
-### 📊 GitHub Stats:
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masud1901&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true" width="95%"/>
-</p>
-
 <br/>
 
-<p align="center">
-  <a href="https://github.com/masud1901">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=masud1901&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=masud1901&theme=tokyonight&hide_border=true&background=1a1b27"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud1901&theme=tokyonight&hide_border=true&bg_color=1a1b27&layout=compact"/>
-</p>
-
----
-
-### 🏆 Achievements:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masud1901&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
-
-| 🏅 Achievement | 📅 Date |
-|:--------------|:-------:|
-| 🥇 **Top 8%** — Zelestra x AWS ML Ascend Challenge (84/1,016 teams) | Jun 2025 |
-| 📊 **63rd** — DL Enigma 1.0 SUST CSE Carnival | Feb 2024 |
-| 🏆 **37th** — CUET ETE ML Competition (200+ teams) | Nov 2023 |
-| 🎖️ **Duke of Edinburgh Bronze Award** | Feb 2017 |
-
----
-
-### 📚 Publications:
-
-<p align="center">
-  <b>3 Q1 Journal Publications</b> in AI/ML & Computer Vision
-</p>
-
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=uRY4vdIAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/View%20on%20Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-  </a>
-</p>
-
----
-
 <!-- Snake Animation -->
+## 🐍 Watch my contributions being eaten away
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
 
+<br/>
+
 ---
 
+<!-- GitHub Stats & Activity (Card Style from aryasoni98) -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masud1901&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true" width="95%"/>
 </div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Let's+connect+and+collaborate!;Star+⭐+my+repos+if+you+find+them+useful!" />
-</h3>
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer"/>
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=masud1901&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masud1901&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&layout=compact" />
+</div>
+
+<br/>
+
+---
+
+<!-- Detailed Projects (Clean Table Style) -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Link |
+|:-------:|:-----------:|:----------:|:----:|
+| **MUSE Analytics** | Content Analytics SaaS | Next.js, TypeScript, Convex | [🔗 Live](https://muse-project-rho.vercel.app/) |
+| **VoteBD** | Election Prediction Platform | Next.js, PostgreSQL | [🔗 Live](https://votebd.nimbusrb.com/) |
+| **The Melange** | Production ETL Platform | FastAPI, Python, AWS | [🔗 Live](https://melange.nimbusrb.com/) |
+| **bdshare** | Open Source Contribution | Python, Pandas | [🔗 PR](https://github.com/rochi88/bdshare/pull/11) |
+
+</div>
+
+<br/>
+
+---
+
+<!-- Publications Badge -->
+<div align="center">
+  <a href="https://scholar.google.com/citations?user=uRY4vdIAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/📚_3_Q1_Journal_Publications-View_on_Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" height="40"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- Footer (Wave Animation) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,10&height=100&section=footer"/>
+
