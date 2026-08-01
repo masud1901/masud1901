@@ -9,7 +9,7 @@
 <br/>
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=uRY4vdIAAAAJ&hl=en)
-[![CV](https://img.shields.io/badge/Curriculum_Vitae-PDF-DC143C?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/masud1901/masud1901/raw/main/CV_Md_Akmol_Masud.pdf)
+[![CV](https://img.shields.io/badge/Curriculum_Vitae-PDF-DC143C?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Ip0aCNmJgtb1-v32RExzgbfkaSBUxzR-/view)
 [![Website](https://img.shields.io/badge/akmolmasud5.com-111111?style=flat-square&logo=safari&logoColor=white)](https://www.akmolmasud5.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akmolmasudayon)
 [![Email](https://img.shields.io/badge/m.masud%40queensu.ca-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:m.masud@queensu.ca)
